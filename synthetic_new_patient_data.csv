@@ -1,0 +1,101 @@
+Patient_ID,Patient_Age,Patient_Gender,Medical Condition,Procedure,Cost,Satisfaction
+1001,71,Male,Obesity,X-Ray and Splint,1284,1
+1002,34,Female,Cancer,X-Ray and Splint,28251,5
+1003,80,Male,Cancer,Angioplasty,8596,5
+1004,40,Male,Cancer,Angioplasty,8060,1
+1005,43,Female,Heart Disease,X-Ray and Splint,13033,5
+1006,22,Male,Cancer,X-Ray and Splint,7843,5
+1007,41,Male,Obesity,X-Ray and Splint,7706,5
+1008,72,Male,Cancer,Insulin Therapy,22480,3
+1009,21,Male,Diabetes,Angioplasty,6301,4
+1010,49,Male,Diabetes,X-Ray and Splint,19690,2
+1011,57,Female,Heart Disease,Angioplasty,17421,3
+1012,21,Female,Diabetes,Insulin Therapy,6486,5
+1013,83,Female,Obesity,Insulin Therapy,18725,1
+1014,79,Male,Cancer,X-Ray and Splint,11147,5
+1015,40,Male,Heart Disease,Insulin Therapy,9216,4
+1016,52,Male,Cancer,Angioplasty,23855,5
+1017,77,Female,Cancer,X-Ray and Splint,22509,1
+1018,41,Male,Obesity,Angioplasty,19834,4
+1019,68,Male,Diabetes,Angioplasty,24876,5
+1020,78,Female,Diabetes,Insulin Therapy,12823,4
+1021,61,Male,Cancer,Insulin Therapy,5280,2
+1022,79,Female,Heart Disease,Insulin Therapy,29191,2
+1023,34,Female,Diabetes,Insulin Therapy,2868,5
+1024,81,Female,Heart Disease,Insulin Therapy,12539,4
+1025,81,Male,Diabetes,X-Ray and Splint,7155,1
+1026,66,Male,Heart Disease,Angioplasty,8673,5
+1027,81,Male,Obesity,Angioplasty,4995,2
+1028,70,Male,Heart Disease,Angioplasty,11393,2
+1029,74,Male,Obesity,Angioplasty,26047,5
+1030,83,Male,Obesity,Insulin Therapy,22886,4
+1031,22,Male,Heart Disease,Angioplasty,23498,2
+1032,70,Female,Obesity,X-Ray and Splint,26242,4
+1033,26,Male,Cancer,X-Ray and Splint,13903,2
+1034,40,Female,Obesity,Angioplasty,13621,2
+1035,58,Male,Diabetes,Angioplasty,22803,3
+1036,37,Male,Heart Disease,X-Ray and Splint,11466,2
+1037,23,Male,Cancer,X-Ray and Splint,27058,1
+1038,79,Female,Heart Disease,Insulin Therapy,1353,5
+1039,33,Female,Diabetes,X-Ray and Splint,21030,5
+1040,28,Female,Diabetes,Insulin Therapy,28812,4
+1041,72,Female,Diabetes,Insulin Therapy,20653,2
+1042,21,Male,Obesity,Insulin Therapy,17458,1
+1043,79,Female,Obesity,Insulin Therapy,28337,4
+1044,63,Male,Heart Disease,Insulin Therapy,18032,3
+1045,27,Male,Heart Disease,Angioplasty,23177,4
+1046,66,Female,Cancer,X-Ray and Splint,23341,4
+1047,54,Female,Cancer,Insulin Therapy,24393,2
+1048,55,Female,Heart Disease,X-Ray and Splint,10407,3
+1049,69,Female,Obesity,X-Ray and Splint,5277,4
+1050,23,Female,Diabetes,Insulin Therapy,20738,1
+1051,21,Female,Heart Disease,Angioplasty,15838,1
+1052,25,Female,Cancer,Insulin Therapy,2991,5
+1053,73,Female,Obesity,Angioplasty,27736,3
+1054,23,Male,Heart Disease,X-Ray and Splint,15828,3
+1055,73,Female,Heart Disease,Angioplasty,15099,5
+1056,82,Female,Obesity,Angioplasty,20008,4
+1057,37,Male,Heart Disease,Angioplasty,22575,3
+1058,63,Female,Obesity,X-Ray and Splint,3551,1
+1059,53,Male,Diabetes,X-Ray and Splint,16479,1
+1060,81,Male,Obesity,Angioplasty,16888,2
+1061,33,Female,Obesity,Angioplasty,22106,3
+1062,67,Male,Obesity,Insulin Therapy,22199,4
+1063,34,Male,Heart Disease,Angioplasty,21753,5
+1064,81,Male,Heart Disease,Insulin Therapy,1376,5
+1065,59,Male,Obesity,Angioplasty,26067,4
+1066,72,Female,Heart Disease,Insulin Therapy,23911,2
+1067,43,Male,Cancer,X-Ray and Splint,4642,5
+1068,45,Female,Cancer,Angioplasty,15702,3
+1069,79,Male,Heart Disease,Angioplasty,7466,2
+1070,60,Male,Heart Disease,Angioplasty,7579,3
+1071,48,Male,Obesity,Angioplasty,8487,1
+1072,34,Male,Diabetes,Insulin Therapy,7299,2
+1073,64,Female,Heart Disease,Angioplasty,29440,5
+1074,84,Female,Cancer,X-Ray and Splint,4965,2
+1075,28,Male,Obesity,X-Ray and Splint,17519,2
+1076,20,Male,Heart Disease,Angioplasty,13917,2
+1077,27,Female,Cancer,X-Ray and Splint,18577,2
+1078,82,Male,Cancer,Angioplasty,26758,3
+1079,30,Male,Diabetes,Angioplasty,21636,1
+1080,27,Male,Obesity,X-Ray and Splint,8811,4
+1081,54,Female,Obesity,Angioplasty,17714,2
+1082,54,Female,Diabetes,X-Ray and Splint,14598,5
+1083,52,Female,Diabetes,Insulin Therapy,28751,2
+1084,24,Male,Obesity,Angioplasty,5677,5
+1085,60,Male,Obesity,Insulin Therapy,14762,3
+1086,47,Female,Heart Disease,X-Ray and Splint,26445,5
+1087,26,Female,Heart Disease,Insulin Therapy,25816,4
+1088,31,Female,Diabetes,Insulin Therapy,8808,1
+1089,53,Female,Heart Disease,X-Ray and Splint,6449,5
+1090,52,Male,Cancer,Insulin Therapy,19722,5
+1091,67,Female,Heart Disease,Insulin Therapy,1650,1
+1092,42,Male,Heart Disease,X-Ray and Splint,24444,4
+1093,81,Female,Cancer,Insulin Therapy,2431,2
+1094,56,Male,Diabetes,X-Ray and Splint,9704,5
+1095,63,Female,Cancer,Insulin Therapy,18548,1
+1096,54,Female,Heart Disease,X-Ray and Splint,1581,3
+1097,84,Female,Diabetes,X-Ray and Splint,29805,1
+1098,66,Female,Heart Disease,Insulin Therapy,17396,3
+1099,22,Male,Cancer,Insulin Therapy,27925,4
+1100,20,Female,Cancer,Insulin Therapy,13907,2
