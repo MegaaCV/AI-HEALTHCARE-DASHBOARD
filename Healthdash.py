@@ -19,7 +19,7 @@ import plotly.express as px
 
 
 # Load dataset
-df = pd.read_csv('C:\\Users\\ADMIN\\Desktop\\Ai healthcare\\cleaned_dataset_350_rows.csv')
+df = pd.read_csv('https://github.com/MegaaCV/AI-HEALTHCARE-DASHBOARD/blob/main/cleaned_dataset_350_rows.csv')
 
 # Static features used for XGBoost
 static_features = [
