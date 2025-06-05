@@ -19,7 +19,7 @@ import plotly.express as px
 
 
 # Load dataset
-df = pd.read_csv('https://github.com/MegaaCV/AI-HEALTHCARE-DASHBOARD/blob/main/cleaned_dataset_350_rows.csv')
+df = pd.read_csv('cleaned_dataset_350_rows.csv')
 
 # Static features used for XGBoost
 static_features = [
@@ -201,7 +201,7 @@ st.title("📊 Real-Time Patient Monitoring Dashboard ")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('https://github.com/MegaaCV/AI-HEALTHCARE-DASHBOARD/blob/main/synthetic_new_patient_data.csv')
+    return pd.read_csv('synthetic_new_patient_data.csv')
 
 data = load_data()
 arms = data['Procedure'].unique().tolist()
